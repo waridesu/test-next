@@ -1,0 +1,7 @@
+{
+  "posts":[
+    {"id":  1, "title": "About health", "body": "a arcu cursus vitae congue"},
+    {"id":  2, "title": "About JavaScript", "body": "donec pretium vulputate sapien nec sagittis aliquam"},
+    {"id":  3, "title": "About rest", "body": "vestibulum morbi blandit cursus risus at ultrices mi tempus"}
+  ]
+}
